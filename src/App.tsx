@@ -1,5 +1,5 @@
 import './App.css'
-import Prueba from './bases/06-desestructuracion-objetos';
+import Prueba from ''
 
 function App() {
 
